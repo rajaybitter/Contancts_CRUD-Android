@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android Code Test Rajay Bitter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="dob">Date of Birth:(DD.MM.YYYY)</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="email">Email:</string>
+    <string name="address">Address:</string>
+</resources>
